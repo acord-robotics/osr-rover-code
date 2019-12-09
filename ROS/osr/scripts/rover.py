@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import time
-from osr_msgs.msg import Joystick, Commands, Encoder
+from osr_msgs.msg import Joystick, Commands, Encoder # import these files (messages) from https://github.com/acord-robotics/osr-rover-code/tree/master/ROS/osr_msgs/msg
 import rospy
 from robot import Robot
 import message_filters
