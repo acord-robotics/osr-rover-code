@@ -1,6 +1,6 @@
-#include "OsrScreen.h"
+#include "OsrScreen.h" // Also seen in https://github.com/acord-robotics/osr-rover-code/commit/f5b36391b9ea1b4806f95f51a148ef3e961f1e54
 
-#include "Arduino.h"
+#include "Arduino.h" // https://github.com/acord-robotics/stellarios/blob/master/README.md
 #include "../RGB_matrix_Panel/RGBmatrixPanel.h"
 
 
